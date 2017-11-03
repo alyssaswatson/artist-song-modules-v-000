@@ -3,4 +3,3 @@ module Paramable
      self.name.downcase.gsub(' ', '-')
    end
  end
- 
